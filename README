@@ -1,0 +1,2 @@
+JUnit test runner which also runs tests from implemented interfaces, allowing a more modular style of unit testing.
+
